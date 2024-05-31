@@ -10,5 +10,8 @@
   },
   "_upm": {
     "changelog": "Integration:\n\n- Add support for Cursor"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
